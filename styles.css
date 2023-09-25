@@ -1,0 +1,160 @@
+body{
+    background: url( "img/fundo2.jpg");
+    background-repeat: no-repeat;
+    background-position:center top ;
+    background-attachment: fixed;
+    background-size: 1400px 700px;
+    background-blend-mode:screen;
+    background-color:#614a21;
+    color:black;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size:larger;
+}
+
+h1{
+    text-align: center;
+    font-family: optima ;
+    
+}
+
+ul{
+    display:flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center ;
+    font-family: 'COURIER NEW';
+    padding: 10px;
+    font-size:x-large
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+img{
+    width: 600px;
+    height:400px;
+    border-radius: 7%; 
+    border: 1px solid #FFA500;
+    float:left;  
+}
+
+h3{
+    background-color: #F5DEB3;
+}
+
+/*Definir as margens do texto em relação a tela */
+.container{
+    padding:0px 50px;
+}
+
+/*Quando passar o ponteiro do mouse por cima da destaque*/
+nav a:hover{
+    color:#F5DEB3;
+}
+
+/*guia de personagens*/
+p{
+    background-color: #F5DEB3; 
+    border:#FFA500;
+}
+
+h2{
+    text-align: center;
+    background-color: #F5DEB3;
+}
+
+.luffy{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid #800000; 
+    text-align: left;
+}
+
+.zoro{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid #32CD32; 
+    
+}
+
+.sanji{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid #FFFF00; 
+}
+
+.nami{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid #FF8C00; 
+}
+
+.usopp{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid #A0522D;
+}
+
+.chopper{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid #FFB6C1;
+}
+
+.robin{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid #DA70D6; 
+}
+
+.franky{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid #ADD8E6;
+}
+
+.brook{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid #000000;
+}
+
+.jinbe{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid #1E90FF;
+}
+
+.div1{
+    width: 350px;
+    height: 270px;
+    border-radius:7%;
+    border: 2px solid #FFA500;
+}
+
+.img1{
+    width: 500px;
+    height:350px;
+    border-radius: 7%; 
+    border: 2px solid #FFA500;
+    float:center; 
+}
+
+footer{
+    text-align: center;
+    font-size: medium;
+    position: relative;
+}
+
