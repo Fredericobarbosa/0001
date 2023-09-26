@@ -1,4 +1,4 @@
-# ONE PIECE INFORMAÇÕES
+# ONE PIECE
 
 Um parágrafo da descrição do projeto vai aqui
 
